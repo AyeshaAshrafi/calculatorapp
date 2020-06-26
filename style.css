@@ -1,0 +1,55 @@
+/* STYLING OF CALCULATOR */
+
+
+
+.main{
+    border: 5px solid black;
+    width: 250px;
+    margin: 0 auto;
+    height: 293px;
+    text-align: center;
+    background-color: rgba(153, 0, 255, 0.932);
+}
+h1{
+    margin: 30px auto;
+    text-align: center;
+    text-shadow: 0 0 3px rgba(153, 0, 255, 0.932), 0 0 5px #0000FF
+  
+    
+}
+.answer{
+    width: 95%;
+    background-color: white;
+    color: black;
+    height: 40px;
+    margin: 2px;
+    font-size: larger;
+    font-weight: bold;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.clearall{
+    width: 98.3%;
+    background-color: lightgrey;
+    color: black;
+    margin: 2px;
+    font-size: larger;
+    font-weight: bold;
+    height: 40px;
+    border: 3px solid rgb(6, 75, 35) ;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.input{
+    margin: 2.2px;
+    width: 55px;
+    font-size: larger;
+    font-weight: bold;
+    background-color: lightgrey;
+    color: black;
+    height: 45px;
+    border: 1.5px solid black;
+    cursor: pointer;
+    border-radius: 8px;
+}
